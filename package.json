@@ -1,13 +1,16 @@
 {
-  "name": "react-localization",
-  "version": "0.0.8",
-  "description": "Simple module to localize the React interface using the same syntax used in the ReactNativeLocalization module",
+  "name": "n-react-localization",
+  "version": "0.0.9",
+  "description": "Simple module to localize the React interface using the same syntax used in the ReactNativeLocalization module. This is forked from original git: https://github.com/stefalda/react-localization",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "dependencies": {
+    "babel-root-slash-import": "^1.1.0"
+  },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/stefalda/react-localization.git"
+    "url": "git+https://github.com/nghiaphunguyen/react-localization.git"
   },
   "keywords": [
     "react-component",
@@ -17,10 +20,10 @@
   ],
   "main": "./lib/LocalizedStrings.js",
   "types": "./lib/LocalizedStrings.d.ts",
-  "author": "Stefano Falda <stefano.falda@gmail.com> (http://www.babisoft.com)",
+  "author": "Nghia Nguyen <nghiaphunguyen501@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/stefalda/react-localization/issues"
+    "url": "https://github.com/nghiaphunguyen/react-localization/issues"
   },
-  "homepage": "https://github.com/stefalda/react-localization#readme"
+  "homepage": "https://github.com/nghiaphunguyen/react-localization#readme"
 }
