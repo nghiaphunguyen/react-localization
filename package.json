@@ -1,6 +1,6 @@
 {
   "name": "n-react-localization",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "description": "Simple module to localize the React interface using the same syntax used in the ReactNativeLocalization module. This is forked from original git: https://github.com/stefalda/react-localization",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
